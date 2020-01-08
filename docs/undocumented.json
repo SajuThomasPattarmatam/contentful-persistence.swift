@@ -1,0 +1,89 @@
+{
+  "warnings": [
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/CoreDataStore.swift",
+      "line": 31,
+      "symbol": "CoreDataStore.fetchRequest(for:predicate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/CoreDataStore.swift",
+      "line": 159,
+      "symbol": "CoreDataStore.performBlock(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/CoreDataStore.swift",
+      "line": 172,
+      "symbol": "CoreDataStore.performAndWait(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 18,
+      "symbol": "PersistenceModel.spaceType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 19,
+      "symbol": "PersistenceModel.assetType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 20,
+      "symbol": "PersistenceModel.entryTypes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 22,
+      "symbol": "PersistenceModel.init(spaceType:assetType:entryTypes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/Persistable.swift",
+      "line": 38,
+      "symbol": "ContentSysPersistable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/PersistenceStore.swift",
+      "line": 89,
+      "symbol": "PersistenceStore.performBlock(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/PersistenceStore.swift",
+      "line": 91,
+      "symbol": "PersistenceStore.performAndWait(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/SynchronizationManager.swift",
+      "line": 148,
+      "symbol": "SynchronizationManager.syncToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence/Sources/ContentfulPersistence/SynchronizationManager.swift",
+      "line": 156,
+      "symbol": "SynchronizationManager.performAndWait(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Volumes/Extreme_SSD/Dev/Contentful/ContentfulTests/contentful_persistence"
+}
